@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "browserify-zlib": "^0.1.4",
+    "browserify-zlib": "^0.2.0",
     "is-deflate": "^1.0.0",
     "is-gzip": "^1.0.0",
     "peek-stream": "^1.1.0",
